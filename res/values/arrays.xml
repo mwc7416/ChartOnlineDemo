@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+    <resources xmlns:android="http://schemas.android.com/apk/res/android"  
+        xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">  
+      <string-array name="default_smiley_texts">  
+        <item >[ue056]</item>  
+        <item >[ue057]</item>  
+        <item >[ue058]</item>  
+        <item >[ue059]</item>  
+        <item >[ue105]</item>  
+        <item >[ue106]</item>  
+        
+        <item >[ue107]</item>  
+        <item >[ue108]</item>  
+        <item >[ue401]</item>  
+        <item >[ue402]</item>  
+        <item >[ue403]</item>  
+        <item >[ue404]</item> 
+        
+        <item >[ue405]</item>  
+        <item >[ue406]</item>  
+        <item >[ue407]</item>  
+        <item >[ue408]</item>  
+        <item >[ue409]</item>  
+        <item >[ue40a]</item> 
+        
+        <item >[ue40b]</item>  
+        <item >[ue40c]</item>  
+        <item >[ue40d]</item>  
+        <item >[ue40e]</item>  
+        <item >[ue40f]</item>  
+        <item >[ue410]</item> 
+        
+        <item >[ue411]</item>  
+        <item >[ue412]</item>  
+        <item >[ue413]</item>  
+        <item >[ue414]</item>  
+        <item >[ue415]</item>  
+        <item >[ue416]</item> 
+        
+        <item >[ue417]</item>  
+        <item >[ue418]</item>  
+        <item >[ue41f]</item>  
+        <item >[ue421]</item>  
+      </string-array>  
+    </resources>  
